@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.f747c230.css",
-    "main.js": "/static/js/main.35cda172.js",
+    "main.css": "/static/css/main.f5aef487.css",
+    "main.js": "/static/js/main.2b3c0ce5.js",
     "static/js/787.0c76424e.chunk.js": "/static/js/787.0c76424e.chunk.js",
     "static/media/customer1.svg": "/static/media/customer1.9b401ea66416726c11b2447caf8dfe5f.svg",
     "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
@@ -29,21 +29,21 @@
     "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/dribbble.svg": "/static/media/dribbble.30c0450f7c2049dbbc04562e4fad00e1.svg",
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "index.html": "/index.html",
     "static/media/facebook.svg": "/static/media/facebook.e800ac2ea35cbc43b777f3bbf21fcefd.svg",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/index.html",
     "static/media/youtube.svg": "/static/media/youtube.4293ed28fff3f1ea056efa76f58adca7.svg",
     "static/media/customer-service.svg": "/static/media/customer-service.c6eea0337de08c7aaee83f06ce1934b3.svg",
     "static/media/PPC-Management.svg": "/static/media/PPC-Management.81f7fd0e40c505ffd32e4a22546075cf.svg",
     "static/media/listing-optimization.svg": "/static/media/listing-optimization.3ed5bdd44235827bc19ea5d7ea9a2a1b.svg",
     "static/media/account-manegment.svg": "/static/media/account-manegment.454926947e785afc8d0754799cdcbec8.svg",
     "static/media/store-management.svg": "/static/media/store-management.6e7888db0f7bf65193a71b5c161976f3.svg",
-    "main.f747c230.css.map": "/static/css/main.f747c230.css.map",
-    "main.35cda172.js.map": "/static/js/main.35cda172.js.map",
+    "main.f5aef487.css.map": "/static/css/main.f5aef487.css.map",
+    "main.2b3c0ce5.js.map": "/static/js/main.2b3c0ce5.js.map",
     "787.0c76424e.chunk.js.map": "/static/js/787.0c76424e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f747c230.css",
-    "static/js/main.35cda172.js"
+    "static/css/main.f5aef487.css",
+    "static/js/main.2b3c0ce5.js"
   ]
 }
